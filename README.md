@@ -167,7 +167,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 ### **`👑 Propietario`**
 
-<h1>Deylin 📚</h1>
+<h1>golfito 📚</h1>
 <a href="https://github.com/deylinqff"><img src="https://github.com/deylinqff.png" width="130" height="130" alt="
 avaricia"/></a>
 
@@ -182,12 +182,12 @@ href="https://github.com/The-King-Destroy"><img src="https://github.com/The-King
 
 <p align="center">
   <a href="https://github.com/deylinqff">
-    <img src="https://img.shields.io/badge/GitHub-Deylinqff-181717?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-PRIVE-Bot-181717?style=for-the-badge&logo=github">
   </a>
-  <a href="https://wa.me/50433191934">
+  <a href="https://wa.me/message/V5OG4S5WTJYXJ1">
     <img src="https://img.shields.io/badge/WhatsApp-Contactar-25D366?style=for-the-badge&logo=whatsapp">
   </a>
-  <a href="mailto:deylibaquedano801@gmail.com">
+  <a href="mailto:golfitomartinez5@gmail.com">
     <img src="https://img.shields.io/badge/Email-Enviame%20un%20un%20correo-EA4335?style=for-the-badge&logo=gmail">
   </a>
 </p>
@@ -195,8 +195,8 @@ href="https://github.com/The-King-Destroy"><img src="https://github.com/The-King
 ## 🎯 **Apoya el Proyecto**
 
 <p align="center">
-  <a href="https://www.paypal.me/kirito98Dey">
-    <img src="https://img.shields.io/badge/Apoya a kirito en PayPal-000000?style=for-the-badge&logo=paypal&logoColor=white" alt="Apoya con PayPal" />
+  <a href="https://www.paypal.me/golfitomartinez">
+    <img src="https://img.shields.io/badge/Apoya a golfito en PayPal-000000?style=for-the-badge&logo=paypal&logoColor=white" alt="Apoya con PayPal" />
   </a>
 </p>
 
