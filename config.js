@@ -17,24 +17,24 @@ global.confirmCode = ''
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-  [ '50433191934', ' propietario: Deylin 👑', true ],
-  [ '59169739411'],
-  [ '573007796996'],
-  [ '50231458537'],
-  [ '584123989549'],
-  [ '584245610338'],
-  [ '50557865603'],
-  //[ '51928616320'],
-  [ '50557333744'],
-  [ '573154062343'],
-  [ '5216671548329'],
-  [ '526633900512'],
-  [ '51920227615']
+  [ '8099843134', ' propietario: golfito 👑', true ],
+  [ ''],
+  [ ''],
+  [ ''],
+  [ ''],
+  [ ''],
+  [ ''],
+  //[ ''],
+  [ ''],
+  [ ''],
+  [ ''],
+  [ ''],
+  [ '']
 ]; // <-- Corchete de cierre y coma añadidos
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.mods = ['50433191934']
-global.suittag = ['50433191934'] 
+global.mods = ['8099843134']
+global.suittag = ['8099843134'] 
 global.prems = []
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -44,21 +44,21 @@ global.baileys = '@whiskeysockets/baileys'
 global.languaje = 'Español'
 global.vs = '2.2.0'
 global.vsJB = '5.0'
-global.nameqr = '𝕂𝕚𝕣𝕚𝕥𝕠 𝕓𝕠𝕥 𝕄𝔻'
-global.namebot = '𝐤𝐢𝐫𝐢𝐭𝐨 𝐌𝐃'
+global.nameqr = 'golfito 𝕓𝕠𝕥 𝕄𝔻'
+global.namebot = 'golfito 𝐌𝐃'
 global.sessions = 'Sessions'
 global.jadi = 'JadiBots' 
 global.kiritoJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '𝐤𝐢𝐫𝐢𝐭𝐨-𝐁𝐨𝐭 𝐌𝐃'
-global.botname = '𝑲𝒊𝒓𝒊𝒕𝒐 - 𝑩𝒐𝒕'
-global.wm = '𝐤𝐢𝐫𝐢𝐭𝐨 𝐌𝐃'
-global.author = 'Made By 𝐃𝐞𝐲𝐥𝐢𝐧'
-global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ 𝑫𝒆𝒚𝒍𝒊𝒏'
-global.textbot = '𝐤𝐢𝐫𝐢𝐭𝐨 - 𝐁𝐨𝐭 • Powered By 𝑫𝒆𝒚𝒍𝒊𝒏'
-global.etiqueta = '𝑫𝒆𝒚𝒍𝒊𝒏'
+global.packname = 'golfito-𝐁𝐨𝐭 𝐌𝐃'
+global.botname = 'golfito - 𝑩𝒐𝒕'
+global.wm = 'golfito 𝐌𝐃'
+global.author = 'Made By PRIVE'
+global.dev = '© golfito'
+global.textbot = 'golfito - 𝐁𝐨𝐭 • Powered By PRIVE'
+global.etiqueta = 'PRIVE'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -75,18 +75,18 @@ global.photoSity = [catalogo]
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.gp1 = 'https://chat.whatsapp.com/F8KwM3rVqkS9HhR5msoRqQ'
-global.comunidad1 = 'https://chat.whatsapp.com/F8KwM3rVqkS9HhR5msoRqQ'
-global.channel = 'https://whatsapp.com/channel/0029VawF8fBBvvsktcInIz3m'
+global.gp1 = 'https://chat.whatsapp.com/LpBEPVYAJUc6pdUcLUnYq6'
+global.comunidad1 = 'https://chat.whatsapp.com/LpBEPVYAJUc6pdUcLUnYq6'
+global.channel = 'https://whatsapp.com/channel/0029VaqWErrKGGGQZ91utK1k'
 global.channel2 = 'https://whatsapp.com/channel/0029VayQwPsFnSzESZJ9Us3z'
-global.md = 'https://github.com/deylinqff/Kirito-Bot-MD'
-global.correo = 'deylibaquedano801@gmail.com'
-global.cn ='https://whatsapp.com/channel/0029VawF8fBBvvsktcInIz3m';
+global.md = 'https://github.com/golfito-Bot/Golfito-Bot-MD'
+global.correo = 'golfitomartinez5@gmail.com'
+global.cn ='https://whatsapp.com/channel/0029VaqWErrKGGGQZ91utK1k';
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.catalogo = fs.readFileSync('./src/catalogo.jpg');
-global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: packname, orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
+global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "8099843134-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: packname, orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
 global.ch = {
 ch1: '120363365444927738@newsletter',
 }
