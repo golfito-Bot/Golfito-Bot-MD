@@ -12,7 +12,7 @@ avaricia"/></a>
 ---
 
 ### 🏆 **Poder y Precisión en un Solo Bot**  
-📌 **Creado por:** `Deylin`  
+📌 **Creado por:** `golfito`  
 ⚔ **Optimizado para WhatsApp**  
 🔮 **Diseño inspirado en Sword Art Online**  
 🚀 **¡Rápido, potente y seguro!**  
@@ -143,11 +143,11 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 ## 🌐 ***Forma parte de la Comunidad*** 
 
-💬 **Canal Oficial:** [`Click👑Aquí`](https://whatsapp.com/channel/0029VawF8fBBvvsktcInIz3m)  
+💬 **Canal Oficial:** [`Click👑Aquí`](https://whatsapp.com/channel/0029VaqWErrKGGGQZ91utK1k)  
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=400&color=00CCFF&lines=✨+Espero+que+disfrutes+este+repositorio;💙+Creado+con+dedicación;⚔️+By+Mr.|Deyin+🌠🚀)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=400&color=00CCFF&lines=✨+Espero+que+disfrutes+este+repositorio;💙+Creado+con+dedicación;⚔️+By+Mr.|golfito+🌠🚀)](https://git.io/typing-svg)  
 
 ## 📊 **Estadísticas de GitHub**
 
@@ -200,4 +200,4 @@ href="https://github.com/The-King-Destroy"><img src="https://github.com/The-King
   </a>
 </p>
 
-## ⚔️ [© Powered By Deyin 👑](https://Wa.me/50433191934)
+## ⚔️ [© Powered By golfito 👑](https://wa.me/message/V5OG4S5WTJYXJ1)
